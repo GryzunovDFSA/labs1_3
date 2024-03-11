@@ -1,8 +1,13 @@
 Необходимое ПО
+
 Android Studio
+
 Используемые технологии
+
 Java
+
 Java JDK
+
 Инструкция по запуску приложения
 Git clone https://github.com/GryzunovDFSA/labs1_3.git
 Далее необходимо запустить проект внутри Android Studio:
